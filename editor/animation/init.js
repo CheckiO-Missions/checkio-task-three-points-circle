@@ -159,7 +159,7 @@ requirejs(['ext_editor_1', 'jquery_190', 'raphael_210'],
             var zx = 20;
             var zy = 20;
             var cellSize = 20;
-            var cellN = 10;
+            var cellN = 9;
             var fullSize = 2 * zx + cellSize * (cellN + 1);
 
             var colorDark = "#294270";
